@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'M400';
+    src: url('./fonts/Mulish-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'DM700';
+    src: url('./fonts/DMSans_24pt-Bold.ttf');
+}
